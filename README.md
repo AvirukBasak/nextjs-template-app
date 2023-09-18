@@ -1,1 +1,14 @@
+# NextJS Template
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+## Getting started
+- Do not touch `pages/_app.tsx`
+- Make changes to `pages/*.tsx`
+- Add global CSS to `styles/global.css`
+- Add styles in `styles/*.module.css`
+
+## Run server
+```
+npm install
+npm run dev
+```
