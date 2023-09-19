@@ -1,4 +1,5 @@
 import Head from "next/head";
+import BodyData from '@/components/BodyData';
 
 export default function Home() {
   return (
@@ -8,8 +9,7 @@ export default function Home() {
         <meta charSet="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       </Head>
-      <h1>Demo App</h1>
-      <p>This is a paragraph</p>
+      <BodyData />
     </div>
   );
 }
