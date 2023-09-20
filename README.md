@@ -16,6 +16,8 @@ npx create-next-app@latest nextjs-app --use-npm --example "https://github.com/Av
 - Add server modules to `src/lib/*.js`
 - Add API endpoints to `src/api/*.js`
 
+*Note*: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
+
 ## Run server
 ```
 npm install
