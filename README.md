@@ -18,6 +18,8 @@ npx create-next-app@latest nextjs-app --use-npm --example "https://github.com/Av
 
 *Note*: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
 
+*Note*: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
+
 ## Run server
 ```
 npm install
