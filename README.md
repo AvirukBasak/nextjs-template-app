@@ -8,13 +8,15 @@ npx create-next-app@latest nextjs-app --use-npm --example "https://github.com/Av
 ```
 - Do not touch `src/pages/_app.jsx`
 - Add pages to `src/pages/*.jsx`
-- Add components to `src/components/*.jsx`
-- Add JS modules to `src/scripts/*.js`
+- Add API endpoints to `src/pages/api/*.js`
+- Add page components to `src/components/*.jsx`
+- Add browser JS modules to `src/scripts/*.js`
+- Add server modules to `src/lib/*.js`
 - Add global CSS to `src/styles/global.css`
 - Add local styles in `src/styles/*.module.css`
 - Add images and fonts in `public/`
-- Add server modules to `src/lib/*.js`
-- Add API endpoints to `src/pages/api/*.js`
+
+*Note*: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
 
 *Note*: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
 
