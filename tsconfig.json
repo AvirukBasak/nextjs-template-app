@@ -22,7 +22,8 @@
       "@/components/*": [ "src/components/*" ],
       "@/lib/*": [ "src/lib/*" ],
       "@/pages/*": [ "src/pages/*" ],
-      "@/styles/*": [ "src/styles/*" ]
+      "@/styles/*": [ "src/styles/*" ],
+      "@/res/*": [ "src/res/*" ]
     }
   },
   "include": [
