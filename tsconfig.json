@@ -23,7 +23,8 @@
       "@/lib/*": [ "src/lib/*" ],
       "@/pages/*": [ "src/pages/*" ],
       "@/styles/*": [ "src/styles/*" ],
-      "@/res/*": [ "src/res/*" ]
+      "@/scripts/*": [ "src/scripts/*" ],
+      "@/images/*": [ "public/images/*" ]
     }
   },
   "include": [
