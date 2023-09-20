@@ -7,6 +7,7 @@ export default function BodyData() {
     <div className={styles.background}>
       <h1>Demo App</h1>
       <p>This is a Paragraph</p>
+      <img src="/images/background.jpg"/>
     </div>
   );
 }
