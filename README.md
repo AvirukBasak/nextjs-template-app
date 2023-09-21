@@ -16,9 +16,7 @@ npx create-next-app@latest nextjs-app --use-npm --example "https://github.com/Av
 - Add local styles in `src/styles/*.module.css`
 - Add images and fonts in `public/`
 
-*Note*: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
-
-*Note*: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
+**Note**: All `public` resources should be loaded in `.css` and `.jsx` files with respect to `/`.
 
 ## Run server
 ```
